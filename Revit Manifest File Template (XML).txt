@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+
+	<AddIn Type="Command">
+
+		<Name>Revit_2021</Name>
+
+		<FullClassName>Revit_2021.Main</FullClassName>
+
+		<Text>RoaTecStandardNewVersion</Text>
+
+		<Description>Move Columns</Description>
+
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+
+		<Assembly>Revit_2021.dll</Assembly>
+
+		<AddInId>			
+			678B908B-2CDD-4ED4-895A-CC103EEBFB77
+		</AddInId>
+
+		<VendorId>MOhamad</VendorId>
+
+		<VendorDescription>Mohamad Al JAzmati, Developer</VendorDescription>
+
+	</AddIn>
+
+</RevitAddIns>
